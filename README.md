@@ -6,4 +6,4 @@ Changes:
 All Enemies are snitchbugs(bosses are the same)
 All Parts are Gluon Drive
 
-The Pluck-A-Phone code is provided By Minty-Meeo
+The Pluck-A-Phone code is provided By @Minty-Meeo
